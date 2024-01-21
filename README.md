@@ -15,7 +15,7 @@
 <h3 align="center">SensLink-Vision</h3>
 
   <p align="center">
-    Custom STM32F4-based LoRa Transceiver with IMU, Baro and LIDAR
+    Custom STM32F4-based LoRa Transceiver with IMU, Baro and Laser Range Finder
     <br />
     <a href="https://github.com/Devashrutha/SensLink-Vision"><strong>Explore the docs »</strong></a>
     <br />
@@ -38,7 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a project that took a lot of time and effort. It is the culmination of everything I learned during my engineering. Although it is still a work in progress in the programming department fully written in `C/C++`, it is at a stage where it can be used.
+This is a project that took a lot of time and effort. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department fully written in `C/C++`, it is at a stage where it can be used.
 
 The main PCB containing the `STM32F411CE` was designed in `Altium` while the `LoRa Transceiver PCB` was designed in `Ki-CAD`. The main board comprises an `MPU-6050` IMU, a `BMP280` barometer, and a `VI53L1X` laser range finder. An onboard SD card reader can log the data read from the sensors. A `type C` connector can stream data using a `virtual COM port`.
 
