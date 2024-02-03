@@ -1,0 +1,13 @@
+../Core/Src/MPU6050.c:114:13:i2c_MPU6050_read_reg	24	static
+../Core/Src/MPU6050.c:95:13:i2c_MPU6050_write_reg.constprop	24	static
+../Core/Src/MPU6050.c:318:6:MPU6050_set_power_mode	16	static
+../Core/Src/MPU6050.c:409:6:MPU6050_enable_irq	16	static
+../Core/Src/MPU6050.c:448:9:MPU6050_get_irq_status	16	static
+../Core/Src/MPU6050.c:474:6:MPU6050_disable_irq	16	static
+../Core/Src/MPU6050.c:498:6:MPU6050_peripheral_config	40	static,ignoring_inline_asm
+../Core/Src/MPU6050.c:545:9:MPU6050_Init	40	static
+../Core/Src/MPU6050.c:618:6:MPU6050_Read_Accel	32	static
+../Core/Src/MPU6050.c:646:6:MPU6050_Read_Gyro	32	static
+../Core/Src/MPU6050.c:674:6:MPU6050_Read_Temp	16	static
+../Core/Src/MPU6050.c:756:8:Kalman_getAngle	96	static
+../Core/Src/MPU6050.c:696:6:MPU6050_Read_All	72	static

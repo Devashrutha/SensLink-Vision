@@ -1,0 +1,12 @@
+../Core/Src/BMP280.c:57:19:read_data	32	static
+../Core/Src/BMP280.c:43:13:read_reg16	40	static
+../Core/Src/BMP280.c:68:12:write_reg8	32	static
+../Core/Src/BMP280.c:3:6:bmp280_default_init	0	static
+../Core/Src/BMP280.c:11:6:bmp280_uhr_all_init	0	static
+../Core/Src/BMP280.c:19:6:bmp280_uhr_press_init	0	static
+../Core/Src/BMP280.c:27:6:bmp280_uhr_temp_init	0	static
+../Core/Src/BMP280.c:35:6:bmp280_sleep_init	0	static
+../Core/Src/BMP280.c:105:6:bmp280_init	24	static
+../Core/Src/BMP280.c:156:6:bmp280_busy	16	static
+../Core/Src/BMP280.c:207:6:bmp280_read_fixed	48	static
+../Core/Src/BMP280.c:228:6:bmp280_read	24	static
