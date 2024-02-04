@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Devashrutha/SensLink-Vision/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Pictures/vision_logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">SensLink-Vision</h3>
