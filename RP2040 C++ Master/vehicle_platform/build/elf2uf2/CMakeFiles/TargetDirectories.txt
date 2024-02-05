@@ -1,0 +1,5 @@
+/Users/m1/Documents/C++/pico/vehicle_platform/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/m1/Documents/C++/pico/vehicle_platform/build/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/m1/Documents/C++/pico/vehicle_platform/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/m1/Documents/C++/pico/vehicle_platform/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/Users/m1/Documents/C++/pico/vehicle_platform/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir

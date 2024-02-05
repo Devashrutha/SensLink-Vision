@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libbitmap_fonts.a CMakeFiles/bitmap_fonts.dir/bitmap_fonts.cpp.obj
+/opt/homebrew/bin/arm-none-eabi-ranlib libbitmap_fonts.a
