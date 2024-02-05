@@ -44,7 +44,7 @@ This project took much time and effort and is still a work in progress. It is th
   <img src="Pictures/Sensor and Ground Station.jpg" height="1081" width="694.8" >
 </div>
 
-The entire project was first designed in Fusion 360 to design the frame to incorporate all the components. This allows it to be compact and mounted on drones or any other vehicle.
+The entire project was first designed in Fusion 360 to create a frame incorporating all components. This makes it compact and can be mounted on drones or any other vehicle.
 
 <div align="center">
   <img src="Pictures/GST_iso.png" height="598" width="434">
