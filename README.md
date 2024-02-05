@@ -38,24 +38,24 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a project that took a lot of time and effort. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department, fully written in `C/C++,` it is at a stage where it can be used.
+This project took much time and effort and is still a work in progress. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department, fully written in `C/C++,` it is at a stage where it can be used.
 
 <div align="center">
-  <img src="Pictures/Sensor and Ground Station.jpg">
+  <img src="Pictures/Sensor and Ground Station.jpg" height="1081" width="694.8" >
 </div>
 
 The entire project was first designed in Fusion 360 to design the frame to incorporate all the components. This allows it to be compact and mounted on drones or any other vehicle.
 
 <div align="center">
-  <img src="Pictures/GST_iso.png">
+  <img src="Pictures/GST_iso.png" height="598" width="434">
 </div>
 
 <div align="center">
-  <img src="Pictures/SENS_iso.png">
+  <img src="Pictures/SENS_iso.png" height="648" width="434">
 </div>
 
 <div align="center">
-  <img src="Pictures/Back.jpg">
+  <img src="Pictures/Back.jpg" height="774.4" width="397.4">
 </div>
 
 The main PCB containing the `STM32F411CE` was designed in `Altium` while the `LoRa Transceiver PCB` was designed in `Ki-CAD.` The main board comprises an `MPU-6050` IMU, a `BMP280` barometer, and a `VI53L1X` laser range finder. An onboard SD card reader can log the data read from the sensors. A `type C` connector can stream data using a `virtual COM port`.
@@ -64,7 +64,7 @@ The main PCB containing the `STM32F411CE` was designed in `Altium` while the `Lo
   <img src="Pictures/MCU_PCB.png">
 </div>
 <div align="center">
-  <img src="Pictures/LoRa_PCB.png">
+  <img src="Pictures/LoRa_PCB.png" width="404.5" height="199.75">
 </div>
 
 I used two boards, one for data collection and the other as a ground station. Both use `LCD screens that stream the sensors' data in real time. An `RP2040` is used to drive these displays.
@@ -75,8 +75,6 @@ I used two boards, one for data collection and the other as a ground station. Bo
 * The LORA Ra-02 module uses USART for data communication between the module and MCU.
 * The displays use SPI for data communication.
 * The SD card uses SDIO for data communication.
-
-The PCB 
 
 All of this would not be possible if not for the open-source libraries that were available for the sensors and STM32-CUBE IDE.
 
