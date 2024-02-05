@@ -38,13 +38,13 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-SensLink is a custom LoRa Transceiver. It can store and transmit sensor data to a portable ground station module. The PCBs were designed using Altium Designer and KiCad. This project took much time and effort and is still a work in progress. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department, fully written in `C/C++,` it is at a stage where it can be used.
+SensLink is a custom LoRa Transceiver. It can store and transmit sensor data to a portable ground station module. The PCBs were designed using `Altium Designer` and `KiCad`. This project took much time and effort and is still a work in progress. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department, fully written in `C/C++,` it is at a stage where it can be used.
 
 <div align="center">
   <img src="Pictures/Sensor and Ground Station.jpg" height="1081" width="694.8" >
 </div>
 
-The entire project was first designed in Fusion 360 to create a frame incorporating all components. This makes it compact and can be mounted on drones or any other vehicle.
+The entire project was first designed in `Fusion 360` to create a frame incorporating all components. This makes it compact to be mounted on drones or any other vehicle.
 
 <div align="center">
   <img src="Pictures/GST_iso.png" height="598" width="434">
