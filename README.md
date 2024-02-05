@@ -38,7 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This project took much time and effort and is still a work in progress. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department, fully written in `C/C++,` it is at a stage where it can be used.
+SensLink is a custom LoRa Transceiver. It can store and transmit sensor data to a portable ground station module. The PCBs were designed using Altium Designer and KiCad. This project took much time and effort and is still a work in progress. It is the culmination of everything I learned during my engineering and my love for drones. Although it is still a work in progress in the programming department, fully written in `C/C++,` it is at a stage where it can be used.
 
 <div align="center">
   <img src="Pictures/Sensor and Ground Station.jpg" height="1081" width="694.8" >
@@ -58,7 +58,7 @@ The entire project was first designed in Fusion 360 to create a frame incorporat
   <img src="Pictures/Back.jpg" height="774.4" width="397.4">
 </div>
 
-The main PCB containing the `STM32F411CE` was designed in `Altium` while the `LoRa Transceiver PCB` was designed in `Ki-CAD.` The main board comprises an `MPU-6050` IMU, a `BMP280` barometer, and a `VI53L1X` laser range finder. An onboard SD card reader can log the data read from the sensors. A `type C` connector can stream data using a `virtual COM port`.
+The main PCB containing the `STM32F411CE` was designed in `Altium` while the `LoRa Transceiver PCB` was designed in `KiCad`. The main board comprises an `MPU-6050` IMU, a `BMP280` barometer, and a `VI53L1X` laser range finder. An onboard SD card reader can log the data read from the sensors. A `type C` connector can stream data using a `virtual COM port`. The SD card traces are length-matched so that the data transmitted and received from the MCU happens without delays. This mitigates the corruption of the sensor data while logging.
 
 <div align="center">
   <img src="Pictures/MCU_PCB.png">
